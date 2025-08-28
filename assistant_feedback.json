@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-08-20T23:09:51.147352",
+    "function_type": "Answer Question",
+    "user_input": "where is Tajmahal?",
+    "response_preview": "I don't have specific information about 'where is tajmahal?'. This is a simulated AI assistant. For ...",
+    "helpful": true,
+    "comment": "no"
+  },
+  {
+    "timestamp": "2025-08-22T07:37:56.162293",
+    "function_type": "Answer Question",
+    "user_input": "where is Tajmahal?",
+    "response_preview": "The Taj Mahal is located in Agra, Uttar Pradesh, India. It is a UNESCO World Heritage Site and one o...",
+    "helpful": true,
+    "comment": "no"
+  },
+  {
+    "timestamp": "2025-08-22T08:29:47.169417",
+    "function_type": "Summarize Text",
+    "user_input": "YouTube is an American social media and online video sharing platform owned by Google. YouTube was f...",
+    "response_preview": "Summary: 8 billion videos in total. In January 2024, YouTube had more than 2. 7 billion monthly acti...",
+    "helpful": true,
+    "comment": "no"
+  },
+  {
+    "timestamp": "2025-08-22T15:44:51.757630",
+    "function_type": "Generate Creative Content",
+    "user_input": "write about apple",
+    "response_preview": "Here's a creative piece inspired by 'write about apple':\n\nIn a world where imagination knows no boun...",
+    "helpful": false,
+    "comment": "not related"
+  },
+  {
+    "timestamp": "2025-08-22T15:45:13.618596",
+    "function_type": "Study Tips",
+    "user_input": "study tips request",
+    "response_preview": "Here are some effective study tips:\n\n1. Create a dedicated study space: Find a quiet, organized area...",
+    "helpful": true,
+    "comment": "no"
+  },
+  {
+    "timestamp": "2025-08-22T16:02:30.973888",
+    "function_type": "Study Tips",
+    "user_input": "study tips request",
+    "response_preview": "Here are some effective study tips:\r\n\r\n1. Create a dedicated study space: Find a quiet, organized ar...",
+    "helpful": true,
+    "comment": ""
+  },
+  {
+    "timestamp": "2025-08-22T20:46:25.247156",
+    "function_type": "Study Tips",
+    "user_input": "study tips request",
+    "response_preview": "Here are some effective study tips:\r\n\r\n1. Create a dedicated study space: Find a quiet, organized ar...",
+    "helpful": true,
+    "comment": ""
+  },
+  {
+    "timestamp": "2025-08-27T20:07:35.466612",
+    "function_type": "Summarize Text",
+    "user_input": "Apple Inc. is an American multinational company which manufactures and builts personal computers lap...",
+    "response_preview": "Summary: Apple Inc. Apple calls its computers Macintoshes or Macs, and it calls its laptops MacBooks...",
+    "helpful": true,
+    "comment": ""
+  }
+]

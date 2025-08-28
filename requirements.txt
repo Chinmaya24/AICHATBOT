@@ -1,0 +1,16 @@
+# requirements.txt - Python Dependencies
+
+# Required for web interface
+Flask==2.3.3
+
+# Optional: For enhanced text processing (if you want to extend functionality)
+# nltk==3.8.1
+# spacy==3.6.1
+# transformers==4.33.2
+
+# Standard library modules used (no installation needed):
+# - json
+# - datetime
+# - os
+# - typing
+# - re
